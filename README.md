@@ -1,6 +1,6 @@
-## **README.md Descontraído para sua Aplicação de Pesquisa de Atletas**
 
-### **⚽ Busca Rápida dos Craques do Timão! ⚽**
+
+### ** Busca Rápida dos Craques do Timão! - Imersão Dev com Google Gemini**
 
 **O que faz essa aplicação?**
 
